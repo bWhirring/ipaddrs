@@ -1,0 +1,28 @@
+{
+  "name": "ipaddrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bWhirring/ipaddrs.git"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "netmask"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bWhirring/ipaddrs/issues"
+  },
+  "homepage": "https://github.com/bWhirring/ipaddrs#readme",
+  "dependencies": {
+    "@types/node": "^12.6.9",
+    "typescript": "^3.5.3"
+  }
+}

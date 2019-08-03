@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "outDir": "./lib",
+    "sourceMap": true,
+    "module": "commonjs",
+    "watch": true,
+    "moduleResolution": "node",
+    "isolatedModules": false,
+    "declaration": true
+  },
+  "include": ["./src/**/*"]
+}
